@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="app_name2">일정 추가</string>
+    <string name="add_schedule">
+        일정(추가하려면 화면 상단에 있는 추가 버튼을 누르세요)
+    </string>
+</resources>
